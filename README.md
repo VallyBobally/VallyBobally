@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning about machine learning with Python and cloud technologies.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Practicing handstands makes me very happy.
---
